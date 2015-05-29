@@ -1,0 +1,3 @@
+opusc;
+ustaw [80, 60], 45;
+naprzod 999;

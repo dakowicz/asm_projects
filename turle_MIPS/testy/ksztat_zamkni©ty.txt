@@ -1,0 +1,18 @@
+ustaw [45,30], 0;
+opusc;
+naprzod 100;
+obrot 135;
+naprzod 100;
+obrot 135;
+naprzod 100;
+obrot 135;
+naprzod 100;
+obrot 135;
+naprzod 100;
+obrot 135;
+naprzod 100;
+obrot 135;
+naprzod 100;
+obrot 135;
+naprzod 100;
+obrot 135;

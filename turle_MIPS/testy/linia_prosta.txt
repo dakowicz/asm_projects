@@ -1,0 +1,3 @@
+ustaw [15,15], 0;
+opusc;
+naprzod 120;
